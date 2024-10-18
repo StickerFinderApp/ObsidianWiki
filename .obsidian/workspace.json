@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d7acc33c5a871c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ea6c559ce85c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4eb5902c5ace012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стек технологий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a0501aa613348cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Схема БД Бэк.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2097e0a197aef37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Схема БД Бэк.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6171a024d37d4d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96b2f4406eee2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c9d456cd5e42529",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcad181f7185f40e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "070daf7e0cdb0694",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "8460b273b2234b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "c925893a1574e664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6060bb5d2e57cdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Схема БД Бэк.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bb8d295f42ed713",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Схема БД Бэк.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2feb9b9ceac07645",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e4b54b81b2b552d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Схема БД Бэк.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2097e0a197aef37",
+  "lastOpenFiles": [
+    "ObsidianWiki",
+    "Схема БД локальной.md",
+    "Схема БД Бэк.md",
+    "UserStoryMapping.png",
+    "Android Design.md",
+    "Backend Design.md",
+    "Диаграмма компонентов.md",
+    "Вероятные блокеры.md",
+    "Базовые сценарии.md",
+    "User Stories.md",
+    "Стек технологий.md",
+    "Разработка мобильного приложения с встроенной нейронной сетью для идентификации, поиска и коллекционирования уличных стикеров..md",
+    "План.md",
+    "Untitled.canvas",
+    "UserStoryMapping.drawio"
+  ]
+}
