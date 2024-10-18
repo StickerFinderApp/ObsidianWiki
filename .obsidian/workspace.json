@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стек технологий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a0501aa613348cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Схема БД Бэк.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2097e0a197aef37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Схема БД Бэк.md",
+                "file": "Backend Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схема БД Бэк.md",
+                "file": "Backend Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схема БД Бэк.md",
+                "file": "Backend Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схема БД Бэк.md"
+                "file": "Backend Design.md"
               }
             }
           }
@@ -171,19 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2097e0a197aef37",
+  "active": "b4eb5902c5ace012",
   "lastOpenFiles": [
-    "ObsidianWiki",
+    "Android Design.md",
     "Схема БД локальной.md",
     "Схема БД Бэк.md",
-    "UserStoryMapping.png",
-    "Android Design.md",
-    "Backend Design.md",
     "Диаграмма компонентов.md",
+    "Стек технологий.md",
+    "ObsidianWiki",
+    "UserStoryMapping.png",
+    "Backend Design.md",
     "Вероятные блокеры.md",
     "Базовые сценарии.md",
     "User Stories.md",
-    "Стек технологий.md",
     "Разработка мобильного приложения с встроенной нейронной сетью для идентификации, поиска и коллекционирования уличных стикеров..md",
     "План.md",
     "Untitled.canvas",
