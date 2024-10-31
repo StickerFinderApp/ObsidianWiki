@@ -11,12 +11,12 @@
             "id": "b4eb5902c5ace012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Backend Design.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "AndroidDesign.png"
+              },
+              "icon": "lucide-image",
+              "title": "AndroidDesign"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Design.md",
+                "file": "UserStoryMapping.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UserStoryMapping"
             }
           },
           {
@@ -102,10 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Design.md",
+                "file": "UserStoryMapping.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UserStoryMapping"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Design.md"
-              }
+                "file": "UserStoryMapping.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UserStoryMapping"
             }
           }
         ]
@@ -149,18 +163,20 @@
   "active": "b4eb5902c5ace012",
   "lastOpenFiles": [
     "Android Design.md",
+    "AndroidDesign.png",
+    "AndroidDesign.drawio",
+    "Backend Design.md",
     "Схема БД локальной.md",
     "Схема БД Бэк.md",
-    "Диаграмма компонентов.md",
-    "Стек технологий.md",
-    "ObsidianWiki",
     "UserStoryMapping.png",
-    "Backend Design.md",
-    "Вероятные блокеры.md",
-    "Базовые сценарии.md",
-    "User Stories.md",
     "Разработка мобильного приложения с встроенной нейронной сетью для идентификации, поиска и коллекционирования уличных стикеров..md",
+    "Диаграмма компонентов.md",
+    "Вероятные блокеры.md",
+    "Стек технологий.md",
     "План.md",
+    "User Stories.md",
+    "ObsidianWiki",
+    "Базовые сценарии.md",
     "Untitled.canvas",
     "UserStoryMapping.drawio"
   ]
